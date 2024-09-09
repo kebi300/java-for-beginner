@@ -9,3 +9,6 @@
 비상 연락망은 강의실 변동 및 공지 사항시 전달을 위함
 
 https://forms.gle/f54CfVAHAYPU8qub8
+
+zoom link:
+https://sunmoon.zoom.us/j/5840534575
