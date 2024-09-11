@@ -1,5 +1,5 @@
 # java-for-beginner
-![image](https://github.com/user-attachments/assets/ef0eef28-4435-451c-9ed8-cfc05b3f0a05)
+![image](https://github.com/user-attachments/assets/5e4e1994-11d7-43ec-9df4-7ad4b8f362da)
 
 매주 월, 수 수업 (6:30 ~ 8:00) 301B
 
